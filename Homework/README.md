@@ -18,5 +18,8 @@ The project follows an organized directory structure for easy navigation and acc
     - **📂 <span style="display: inline-block; margin-right: 20px;">[Chapters/](./Chapters)</span>** Chapter submittion folder.
       - 📜 <span style="display: inline-block; margin-right: 20px;">[Practice_3.py](./Chapters/Practice_3.py)</span> Holds Practice 3 solution.
 
-## 👤 Maintainer
+## 👤 Maintainer 🐾
 - [Tal](https://github.com/mendelsontal) - Project Owner
+
+## 🌐 Links
+- [python-script - vaiolabs-io](https://gitlab.com/vaiolabs-io/python-script/-/tree/master)
