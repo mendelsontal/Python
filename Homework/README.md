@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/Python-8A2BE2)]([https://img.shields.io/badge/Python-8A2BE2) [![GitHub contributors](https://img.shields.io/github/contributors/mendelsontal/Python)](https://github.com/mendelsontal/Python/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/mendelsontal/Python)](https://github.com/mendelsontal/Python/issues)
 
 <div align="left">
-  <img src="Python/assets/Python.jpg" alt="Logo" width="300"/>
+  <img src="../assets/Python.jpg" alt="Logo" width="300"/>
 </div>
 
 
