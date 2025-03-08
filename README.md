@@ -1,11 +1,11 @@
 [![Python](https://img.shields.io/badge/Python-8A2BE2)]([https://img.shields.io/badge/Python-8A2BE2) [![GitHub contributors](https://img.shields.io/github/contributors/mendelsontal/Python)](https://github.com/mendelsontal/Python/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/mendelsontal/Python)](https://github.com/mendelsontal/Python/issues)
 
-<div align="left">
-  <img src="assets/Python.jpg" alt="Logo" width="300"/>
-</div>
-
 
 # Python Project
+
+<div align="left">
+  <img src="assets/Python.jpg" alt="Logo" width="500"/>
+</div>
 
 ## 📌 Project Overview
 This project is designed for personal learning and practice in Python, covering various exercises, tasks, and scripting challenges.
