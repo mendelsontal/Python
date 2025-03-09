@@ -34,4 +34,4 @@ print("waifu_age after converting from int:", type (waifu_age))
 
 # Credit card Variable
 credit_card = "1234-5678-9012-3456"
-print("My no fake at all credit card number:\n",credit_card)
+print("My not fake at all credit card number:\n",credit_card)
